@@ -1,0 +1,8 @@
+﻿  win32_platform.cpp
+C:\Dev\OnGoing\Games\Pong Game\Pong Game\renderer.cpp(71): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Dev\OnGoing\Games\Pong Game\Pong Game\renderer.cpp(72): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Dev\OnGoing\Games\Pong Game\Pong Game\renderer.cpp(73): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Dev\OnGoing\Games\Pong Game\Pong Game\renderer.cpp(74): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Dev\OnGoing\Games\Pong Game\Pong Game\renderer.cpp(393): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Dev\OnGoing\Games\Pong Game\Pong Game\win32_platform.cpp(114): warning C4552: '-': result of expression not used
+  Pong Game.vcxproj -> C:\Dev\OnGoing\Games\Pong Game\x64\Debug\Pong Game.exe
